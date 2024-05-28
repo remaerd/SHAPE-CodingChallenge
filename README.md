@@ -1,6 +1,6 @@
 # Chicken Talk To Ducks / Coding Challenge </br> 雞同鴨講 / 代碼挑戰
 
-[!](globe.png)
+[!](./globe.png)
 Welcome to Hong Kong! In this coding Challenge, let's try to challenge ourselves to create a 3D Globe
 
 [Globe.JS Demo - US International Outbound](https://globe.gl/example/airline-routes/us-international-outbound.html)
