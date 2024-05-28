@@ -1,4 +1,4 @@
-# SHAPE Chicken Talk To Ducks / Coding Challenge </br> 雞同鴨講 / 代碼挑戰
+# Chicken Talk To Ducks / Coding Challenge </br> 雞同鴨講 / 代碼挑戰
 
 [!](globe.png)
 Welcome to Hong Kong! In this coding Challenge, let's try to challenge ourselves to create a 3D Globe
