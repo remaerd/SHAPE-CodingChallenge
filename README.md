@@ -3,7 +3,7 @@
 (!)[image.png]
 Welcome to Hong Kong! In this coding Challenge, let's try to challenge ourselves to create a 3D Globe
 
-(Globe.JS Demo - US International Outbound)[https://globe.gl/example/airline-routes/us-international-outbound.html]
+(https://globe.gl/example/airline-routes/us-international-outbound.html)[Globe.JS Demo - US International Outbound]
 
 ## Adding New Data
 
